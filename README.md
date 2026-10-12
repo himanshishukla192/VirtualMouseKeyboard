@@ -4,7 +4,8 @@ A Python-based virtual mouse that uses a webcam to track hand gestures and contr
 
 Demo 
 
-Watch the virtual mouse in action: [View Demo Video](./virtual-mouse-demo.mp4)
+[▶️ Watch the Virtual Mouse Demo](https://github.com/himanshishukla192/VirtualMouseKeyboard/blob/main/demo%20video....mov)
+
 
 
 Features
