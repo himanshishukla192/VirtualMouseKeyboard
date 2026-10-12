@@ -2,6 +2,11 @@ Virtual Mouse Using Hand Gestures 🖐️
 
 A Python-based virtual mouse that uses a webcam to track hand gestures and control the computer cursor, click, and scroll.
 
+Demo 
+
+Watch the virtual mouse in action: [View Demo Video](./virtual-mouse-demo.mp4)
+
+
 Features
 
 - **Cursor Movement**: Move your index finger to control the mouse pointer.
